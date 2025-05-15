@@ -1,0 +1,308 @@
+[
+  {
+    "response_time_ms": 0,
+    "status": "Request failed: builder error: relative URL without a base",
+    "timestamp": "2025-05-15T04:06:58.948973426+00:00",
+    "url": "reddit.com"
+  },
+  {
+    "response_time_ms": 127,
+    "status": "200",
+    "timestamp": "2025-05-15T04:06:59.080162112+00:00",
+    "url": "https://google.com"
+  },
+  {
+    "response_time_ms": 201,
+    "status": "200",
+    "timestamp": "2025-05-15T04:06:59.154355914+00:00",
+    "url": "https://espn.com"
+  },
+  {
+    "response_time_ms": 83,
+    "status": "200",
+    "timestamp": "2025-05-15T04:06:59.163609555+00:00",
+    "url": "https://nytimes.com"
+  },
+  {
+    "response_time_ms": 274,
+    "status": "200",
+    "timestamp": "2025-05-15T04:06:59.223783372+00:00",
+    "url": "https://wikipedia.org "
+  },
+  {
+    "response_time_ms": 80,
+    "status": "200",
+    "timestamp": "2025-05-15T04:06:59.234900856+00:00",
+    "url": "https://fandom.com"
+  },
+  {
+    "response_time_ms": 322,
+    "status": "200",
+    "timestamp": "2025-05-15T04:06:59.271905075+00:00",
+    "url": "https://youtube.com"
+  },
+  {
+    "response_time_ms": 51,
+    "status": "403",
+    "timestamp": "2025-05-15T04:06:59.286993801+00:00",
+    "url": "https://openai.com"
+  },
+  {
+    "response_time_ms": 366,
+    "status": "200",
+    "timestamp": "2025-05-15T04:06:59.315598594+00:00",
+    "url": "https://amazon.com"
+  },
+  {
+    "response_time_ms": 242,
+    "status": "200",
+    "timestamp": "2025-05-15T04:06:59.405982597+00:00",
+    "url": "https://pinterest.com"
+  },
+  {
+    "response_time_ms": 508,
+    "status": "429",
+    "timestamp": "2025-05-15T04:06:59.461521824+00:00",
+    "url": "https://yahoo.com"
+  },
+  {
+    "response_time_ms": 247,
+    "status": "200",
+    "timestamp": "2025-05-15T04:06:59.471362690+00:00",
+    "url": "https://apple.com"
+  },
+  {
+    "response_time_ms": 599,
+    "status": "200",
+    "timestamp": "2025-05-15T04:06:59.550765100+00:00",
+    "url": "https://facebook.com"
+  },
+  {
+    "response_time_ms": 110,
+    "status": "403",
+    "timestamp": "2025-05-15T04:06:59.661230166+00:00",
+    "url": "https://tripadvisor.com"
+  },
+  {
+    "response_time_ms": 432,
+    "status": "200",
+    "timestamp": "2025-05-15T04:06:59.719763466+00:00",
+    "url": "https://quora.com"
+  },
+  {
+    "response_time_ms": 803,
+    "status": "200",
+    "timestamp": "2025-05-15T04:06:59.752811271+00:00",
+    "url": "https://instagram.com"
+  },
+  {
+    "response_time_ms": 417,
+    "status": "200",
+    "timestamp": "2025-05-15T04:06:59.823866544+00:00",
+    "url": "https://clevelandclinic.org"
+  },
+  {
+    "response_time_ms": 561,
+    "status": "200",
+    "timestamp": "2025-05-15T04:06:59.833083173+00:00",
+    "url": "https://yelp.com"
+  },
+  {
+    "response_time_ms": 126,
+    "status": "200",
+    "timestamp": "2025-05-15T04:06:59.845964897+00:00",
+    "url": "https://x.com"
+  },
+  {
+    "response_time_ms": 422,
+    "status": "200",
+    "timestamp": "2025-05-15T04:06:59.893590042+00:00",
+    "url": "https://walmart.com"
+  },
+  {
+    "response_time_ms": 64,
+    "status": "403",
+    "timestamp": "2025-05-15T04:06:59.898048373+00:00",
+    "url": "https://indeed.com"
+  },
+  {
+    "response_time_ms": 186,
+    "status": "200",
+    "timestamp": "2025-05-15T04:07:00.085227520+00:00",
+    "url": "https://mlb.com"
+  },
+  {
+    "response_time_ms": 1174,
+    "status": "200",
+    "timestamp": "2025-05-15T04:07:00.127423385+00:00",
+    "url": "https://imdb.com"
+  },
+  {
+    "response_time_ms": 666,
+    "status": "200",
+    "timestamp": "2025-05-15T04:07:00.128219671+00:00",
+    "url": "https://tiktok.com"
+  },
+  {
+    "response_time_ms": 259,
+    "status": "200",
+    "timestamp": "2025-05-15T04:07:00.152787557+00:00",
+    "url": "https://healthline.com"
+  },
+  {
+    "response_time_ms": 488,
+    "status": "200",
+    "timestamp": "2025-05-15T04:07:00.334392271+00:00",
+    "url": "https://ebay.com"
+  },
+  {
+    "response_time_ms": 1042,
+    "status": "200",
+    "timestamp": "2025-05-15T04:07:00.358733666+00:00",
+    "url": "https://mayoclinic.org"
+  },
+  {
+    "response_time_ms": 237,
+    "status": "200",
+    "timestamp": "2025-05-15T04:07:00.365290116+00:00",
+    "url": "https://linkedin.com"
+  },
+  {
+    "response_time_ms": 563,
+    "status": "200",
+    "timestamp": "2025-05-15T04:07:00.387609441+00:00",
+    "url": "https://nih.gov"
+  },
+  {
+    "response_time_ms": 155,
+    "status": "403",
+    "timestamp": "2025-05-15T04:07:00.489493202+00:00",
+    "url": "https://canva.com"
+  },
+  {
+    "response_time_ms": 383,
+    "status": "200",
+    "timestamp": "2025-05-15T04:07:00.536816546+00:00",
+    "url": "https://allrecipes.com"
+  },
+  {
+    "response_time_ms": 184,
+    "status": "200",
+    "timestamp": "2025-05-15T04:07:00.674308229+00:00",
+    "url": "https://cnn.com"
+  },
+  {
+    "response_time_ms": 719,
+    "status": "200",
+    "timestamp": "2025-05-15T04:07:00.848151126+00:00",
+    "url": "https://netflix.com"
+  },
+  {
+    "response_time_ms": 496,
+    "status": "200",
+    "timestamp": "2025-05-15T04:07:00.855450913+00:00",
+    "url": "https://webmd.com"
+  },
+  {
+    "response_time_ms": 367,
+    "status": "200",
+    "timestamp": "2025-05-15T04:07:00.903870942+00:00",
+    "url": "https://irs.gov"
+  },
+  {
+    "response_time_ms": 234,
+    "status": "403",
+    "timestamp": "2025-05-15T04:07:00.909283792+00:00",
+    "url": "https://zillow.com"
+  },
+  {
+    "response_time_ms": 601,
+    "status": "200",
+    "timestamp": "2025-05-15T04:07:00.988894183+00:00",
+    "url": "https://spotify.com"
+  },
+  {
+    "response_time_ms": 172,
+    "status": "200",
+    "timestamp": "2025-05-15T04:07:01.028103802+00:00",
+    "url": "https://rottentomatoes.com"
+  },
+  {
+    "response_time_ms": 2143,
+    "status": "Request failed: error sending request for url (https://fakewebsite.abc/): error trying to connect: dns error: failed to lookup address information: Name or service not known",
+    "timestamp": "2025-05-15T04:07:01.092338920+00:00",
+    "url": "https://fakewebsite.abc "
+  },
+  {
+    "response_time_ms": 791,
+    "status": "200",
+    "timestamp": "2025-05-15T04:07:01.156710313+00:00",
+    "url": "https://target.com"
+  },
+  {
+    "response_time_ms": 302,
+    "status": "200",
+    "timestamp": "2025-05-15T04:07:01.206689378+00:00",
+    "url": "https://foxnews.com"
+  },
+  {
+    "response_time_ms": 271,
+    "status": "200",
+    "timestamp": "2025-05-15T04:07:01.259981069+00:00",
+    "url": "https://usatoday.com"
+  },
+  {
+    "response_time_ms": 241,
+    "status": "200",
+    "timestamp": "2025-05-15T04:07:01.334231167+00:00",
+    "url": "https://adobe.com"
+  },
+  {
+    "response_time_ms": 541,
+    "status": "200",
+    "timestamp": "2025-05-15T04:07:01.389775947+00:00",
+    "url": "https://merriam-webster.com"
+  },
+  {
+    "response_time_ms": 235,
+    "status": "200",
+    "timestamp": "2025-05-15T04:07:01.392439490+00:00",
+    "url": "https://people.com"
+  },
+  {
+    "response_time_ms": 203,
+    "status": "403",
+    "timestamp": "2025-05-15T04:07:01.409755460+00:00",
+    "url": "https://blooket.com"
+  },
+  {
+    "response_time_ms": 555,
+    "status": "200",
+    "timestamp": "2025-05-15T04:07:01.465058177+00:00",
+    "url": "https://usps.com"
+  },
+  {
+    "response_time_ms": 1573,
+    "status": "200",
+    "timestamp": "2025-05-15T04:07:01.658950296+00:00",
+    "url": "https://nba.com"
+  },
+  {
+    "response_time_ms": 1279,
+    "status": "200",
+    "timestamp": "2025-05-15T04:07:02.308048494+00:00",
+    "url": "https://lowes.com"
+  },
+  {
+    "response_time_ms": 10000,
+    "status": "Request failed: error sending request for url (https://microsoft.com/): operation timed out",
+    "timestamp": "2025-05-15T04:07:09.661540178+00:00",
+    "url": "https://microsoft.com"
+  },
+  {
+    "response_time_ms": 10000,
+    "status": "Request failed: error sending request for url (https://homedepot.com/): operation timed out",
+    "timestamp": "2025-05-15T04:07:09.753146980+00:00",
+    "url": "https://homedepot.com"
+  }
+]
